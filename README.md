@@ -1,18 +1,18 @@
-# Hi there 👋, Eu sou o Romeu Neves!! 
+# Hi there 👋, I'm Romeu Neves!! 
 
 ## Here are some facts about me:
 
-- 💻 Desenvolvedor Front-End Júnior (Auto-didata) 
-- 📚 Estudante de Desenvolvimento de Aplicações Web.  
+- 💻 Junior Front-End Developer (Self-Taught) 
+- 📚 Web Application Development student.  
 - 📥 Contact Me: nevesromeu21@gmail.com / romeu.esp@gmail.com / romeu.esp@hotmail.com
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rnevesphp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnevesphp&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rnevesphp&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnevesphp&layout=compact&langs_count=16&theme=omni"/>
 </div>
   
   
- ## Minhas tecnologias mais usadas
+ ## My most used technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Romeu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Romeu-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/romeu-neves-6b1340184" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<!--![Snake animation](https://github.com/rnevesphp/rnevesphp/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://github.com/rnevesphp/rnevesphp/blob/output/github-contribution-grid-snake.svg)
 
 
 
