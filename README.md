@@ -1,21 +1,25 @@
 # Hi there 👋, I'm Romeu Neves!! 
+<sub> **Telecommunications Technician in Barcelona / Spain** </sub>
+<br>
 [![author](https://img.shields.io/badge/author-romeuphp-red.svg)](https://www.linkedin.com/in/romeu-neves-6b1340184/)
-<sub>**Telecommunications Technician in Barcelona / Spain **</sub>
+
+## 
 ## Here are some facts about me:
 
-- 💻 **Junior Front-End Developer (Self-Taught) **
-- 📚 **Web Application Development student. **
+- 💻 **Junior Front-End Developer (Self-Taught)**
+- 📚 **Web Application Development student.**
 - 📥 **Contact Me: nevesromeu21@gmail.com / romeu.esp@gmail.com / romeu.esp@hotmail.com**
 
 **Links:**
 * **[LinkedIn](https://www.linkedin.com/in/romeu-neves-6b1340184/)**
 * **[Medium](https://medium.com/@rneves_91600)**
 
+##
 ## Here some articles published
 - **[¡PYTHON ES AHORA EL INGLÉS DEL PASADO!](https://medium.com/@rneves_91600/python-es-ahora-el-ingl%C3%A9s-del-pasado-11d11bdfd529)**
 - **[OS BENEFÍCIOS DO CAFÉ](https://medium.com/@rneves_91600/os-benef%C3%ADcios-do-caf%C3%A9-dc5bafdea526)** 
  
-
+## My contribution 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rnevesphp&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnevesphp&layout=compact&langs_count=16&theme=omni"/>
