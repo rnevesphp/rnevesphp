@@ -39,6 +39,7 @@
   <img align="center" alt="Romeu-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Romeu-apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
   <img align="center" alt="Romeu-XML" height="30" width="30" src="https://img.icons8.com/material/24/000000/xml-file.png"/>
+  <img align="center" alt="Romeu-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
   
 ##
