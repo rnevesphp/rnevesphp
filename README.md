@@ -1,10 +1,20 @@
 # Hi there 👋, I'm Romeu Neves!! 
-
+[![author](https://img.shields.io/badge/author-romeuphp-red.svg)](https://www.linkedin.com/in/romeu-neves-6b1340184/)
+<sub>**Telecommunications Technician in Barcelona / Spain **</sub>
 ## Here are some facts about me:
 
-- 💻 Junior Front-End Developer (Self-Taught) 
-- 📚 Web Application Development student.  
-- 📥 Contact Me: nevesromeu21@gmail.com / romeu.esp@gmail.com / romeu.esp@hotmail.com
+- 💻 **Junior Front-End Developer (Self-Taught) **
+- 📚 **Web Application Development student. **
+- 📥 **Contact Me: nevesromeu21@gmail.com / romeu.esp@gmail.com / romeu.esp@hotmail.com**
+
+**Links:**
+* **[LinkedIn](https://www.linkedin.com/in/romeu-neves-6b1340184/)**
+* **[Medium](https://medium.com/@rneves_91600)**
+
+## Here some articles published
+- **[¡PYTHON ES AHORA EL INGLÉS DEL PASADO!](https://medium.com/@rneves_91600/python-es-ahora-el-ingl%C3%A9s-del-pasado-11d11bdfd529)**
+- **[OS BENEFÍCIOS DO CAFÉ](https://medium.com/@rneves_91600/os-benef%C3%ADcios-do-caf%C3%A9-dc5bafdea526)** 
+ 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rnevesphp&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
@@ -47,7 +57,6 @@
 <div>
    <a href="https://instagram.com/romeunevesr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nevesromeu21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/romeu-neves-6b1340184" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ![Snake animation](https://github.com/rnevesphp/rnevesphp/blob/output/github-contribution-grid-snake.svg)
