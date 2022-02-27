@@ -29,7 +29,6 @@
     <img align="center" alt="Romeu-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Romeu-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </div>
-  <br>
 
 ### Learning 
   <div style="display: inline_block"> 
