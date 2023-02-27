@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Romeu Neves!! 
 
 ### Here are some facts about me:
-- 💻 *Front-End Developer - JS and Angular (Self-Taught)**
+- 💻 **Front-End Developer - JS and Angular (Self-Taught)**
 - 📚 **Web Application Development student.**
 
 <br>
