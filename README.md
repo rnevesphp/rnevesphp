@@ -28,7 +28,7 @@
  
  ![MongoDB](https://icongr.am/devicon/mongodb-original.svg?size=35&color=06963c) 
  ![MySQL](https://icongr.am/devicon/mysql-original.svg?size=35&color=06963c) 
- ![Postgres](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg?size=30)
+ ![Postgres]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg?size=30](https://icongr.am/devicon/postgresql-original.svg?size=83&color=currentColor)
  
  ![Javascript](https://icongr.am/devicon/javascript-original.svg?size=35&color=06963c) 
  ![Angular](https://icongr.am/devicon/angularjs-original.svg?size=35&color=06963c)     
