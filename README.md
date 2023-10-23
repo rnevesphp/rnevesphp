@@ -18,11 +18,19 @@
 
 ## Tech Stack
 | FRONTEND   ![Frontend](https://icongr.am/fontawesome/text-height.svg?size=16&color=85a4c1) | BACKEND    ![Backend](https://icongr.am/fontawesome/terminal.svg?size=16&color=85a4c1) | DATABASE   ![database](https://icongr.am/fontawesome/database.svg?size=15&color=85a4c1) | SVC    ![Version Control](https://icongr.am/fontawesome/sitemap.svg?size=16&color=85a4c1) |
-|--- |--- |--- |--- |
-| ![HTML](https://icongr.am/devicon/html5-original.svg?size=35&color=06963c) | ![NodeJS](https://icongr.am/devicon/nodejs-original.svg?size=35&color=06963c)  | ![MySQL](https://icongr.am/devicon/mysql-original.svg?size=35&color=06963c) | ![GitHub](https://icongr.am/devicon/github-original-wordmark.svg?size=70&color=06963c) |
-| ![CSS](https://icongr.am/devicon/css3-original.svg?size=35&color=06963c) | ![Express](https://icongr.am/devicon/express-original-wordmark.svg?size=90&color=06963c) | ![MongoDB](https://icongr.am/devicon/mongodb-original.svg?size=35&color=06963c) |
-| ![Javascript](https://icongr.am/devicon/javascript-original.svg?size=35&color=06963c) |  |  |
-| ![Angular](https://icongr.am/devicon/angularjs-original.svg?size=35&color=06963c)     |  |  |
+
+ ![HTML](https://icongr.am/devicon/html5-original.svg?size=35&color=06963c) 
+ ![NodeJS](https://icongr.am/devicon/nodejs-original.svg?size=35&color=06963c)   
+ 
+ ![GitHub](https://icongr.am/devicon/github-original-wordmark.svg?size=70&color=06963c) 
+ ![CSS](https://icongr.am/devicon/css3-original.svg?size=35&color=06963c)  
+ ![Express](https://icongr.am/devicon/express-original-wordmark.svg?size=90&color=06963c) 
+ 
+ ![MongoDB](https://icongr.am/devicon/mongodb-original.svg?size=35&color=06963c) 
+ ![MySQL](https://icongr.am/devicon/mysql-original.svg?size=35&color=06963c) 
+ ![Postgres](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg?size=98)
+ ![Javascript](https://icongr.am/devicon/javascript-original.svg?size=35&color=06963c) 
+ ![Angular](https://icongr.am/devicon/angularjs-original.svg?size=35&color=06963c)     
 
 ---
 
