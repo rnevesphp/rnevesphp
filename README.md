@@ -1,6 +1,6 @@
 # Romeu Neves 🙋🏻‍♂️
-- **Hey There! I'm Romeu, a FullStack Developer in Training.** 💻 
-- **Web Application Development student.** 📚 
+- **Hey There! I'm Romeu, a FullStack Developer in Training.** 💻
+- **Content creator for instagram and Youtube about technology and Development** 
 ---
 
 ## 🔗 Interest Links
