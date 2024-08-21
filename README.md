@@ -11,7 +11,7 @@
 ## Contribution
 <div style="display: inline-block">
  
- ![vercelApi](https://github-readme-stats.vercel.app/api?username=rnevesphp&show_icons=true&theme=dark&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;  ![readmeStats](https://github-readme-stats.vercel.app/api/top-langs/?username=rnevesphp&layout=compact&langs_count=8&theme=dark)
+![readmeStats](https://github-readme-stats.vercel.app/api/top-langs/?username=rnevesphp&layout=compact&langs_count=8&theme=dark)
 </div>
 
 ---
